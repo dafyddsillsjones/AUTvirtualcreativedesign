@@ -244,11 +244,13 @@
   ],
   "profileLinks": {
     "Hazel Abraham": "https://academics.aut.ac.nz/hazel.abraham",
-    "Gregory Bennett": "https://academics.aut.ac.nz/greg.bennett"
+    "Gregory Bennett": "https://academics.aut.ac.nz/greg.bennett",
+    "Dafydd Sills-Jones": "https://academics.aut.ac.nz/dafydd.sills.jones"
   },
   "sources": [
     "https://vcdrc.aut.ac.nz/our-research",
     "https://vcdrc.aut.ac.nz/our-people",
     "https://vcdrc.aut.ac.nz/partnerships"
-  ]
+  ],
+  "publicationCoverage": "Publication ingestion framework ready; no full AUT publication lists verified yet."
 }

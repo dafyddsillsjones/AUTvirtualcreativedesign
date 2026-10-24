@@ -1,7 +1,10 @@
-VCDRC Research Studio — expanded working prototype
+VCDRC Research Studio — research integration foundation
 
-Upload index.html and data.json to the same GitHub repository root; enable Pages (main branch/root). The app needs a web server (GitHub Pages or python -m http.server), not file://.
+Upload index.html, data.json and publications.json into GitHub repository root.
 
-Data: VCDRC public research index and people directory, checked 24 October 2026. Team relationships are documented only for 8 selected project pages. Other entries are indexed without inferred researchers. AUT academic profile publication lists were inaccessible through available retrieval; only two directly verified profile URLs are linked.
+The existing research entries and 36 members are retained. Three academic profile URLs have been verified. AUT publication lists are NOT yet imported: publications.json is intentionally empty.
 
-Edit data.json to add records. Do not interpret keyword matching as an AI model or authoritative collaborator recommendation.
+To import verified public research records, add entries to publications.json using this format:
+[{"title":"Verified title","authors":["Exact VCDRC member name"],"year":2025,"url":"https://source.example/record","abstract":"Verified abstract or summary","subjects":["documented or inferred subject"],"methods":["method inferred from publication"]}]
+
+The project recommender considers both publications and VCD research projects, with publication evidence preferred. Never fabricate publications or author associations.
