@@ -1,10 +1,13 @@
-VCDRC Research Studio — research integration foundation
+# VCDRC Project Lab
 
-Upload index.html, data.json and publications.json into GitHub repository root.
+A focused, single-purpose research idea explorer, designed to visually harmonise with the VCDRC website.
 
-The existing research entries and 36 members are retained. Three academic profile URLs have been verified. AUT publication lists are NOT yet imported: publications.json is intentionally empty.
+## Publish
+Upload `index.html`, `data.json` and `publications.json` to the root of your GitHub Pages repository, replacing the previous files.
 
-To import verified public research records, add entries to publications.json using this format:
-[{"title":"Verified title","authors":["Exact VCDRC member name"],"year":2025,"url":"https://source.example/record","abstract":"Verified abstract or summary","subjects":["documented or inferred subject"],"methods":["method inferred from publication"]}]
+## Evidence and limitations
+The existing 36-member directory and centre-project associations remain in `data.json`, but no longer appear as directories in the interface. `publications.json` is currently empty: no full AUT publication import has been completed. The tool matches words against indexed titles/tags and publication text; it does not yet provide semantic AI reasoning. Members are treated as available as requested. The design is an interpretation of VCDRC's publicly visible university style, not an exact licensed reproduction.
 
-The project recommender considers both publications and VCD research projects, with publication evidence preferred. Never fabricate publications or author associations.
+To enrich publications, populate `publications.json` with objects like:
+`{"title":"...", "authors":["Exact Member Name"],"year":2025,"url":"https://...", "abstract":"...", "subjects":["..."],"methods":["..."]}`
+Only use methods/subjects grounded in the output. The UI will incorporate these automatically.
