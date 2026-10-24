@@ -1,13 +1,12 @@
-# VCDRC Project Lab
+# VCDRC Project Lab — public research importer
 
-A focused, single-purpose research idea explorer, designed to visually harmonise with the VCDRC website.
+The interface is single-purpose: enter a research idea, see up to three evidence-linked collaborators, and progressively explore related work. Existing VCDRC projects are already indexed. Public academic works will populate `publications.json` after the importer runs.
 
 ## Publish
-Upload `index.html`, `data.json` and `publications.json` to the root of your GitHub Pages repository, replacing the previous files.
+Upload the entire directory contents (including `.github/workflows/research-update.yml` and `scripts/update_publications.py`) to the root of the GitHub repository. In **Actions → Update public research records → Run workflow**, start the import. The workflow runs monthly afterward and commits data back to the repository. Allow GitHub Actions read/write repository permissions under Settings → Actions → General → Workflow permissions if necessary.
 
-## Evidence and limitations
-The existing 36-member directory and centre-project associations remain in `data.json`, but no longer appear as directories in the interface. `publications.json` is currently empty: no full AUT publication import has been completed. The tool matches words against indexed titles/tags and publication text; it does not yet provide semantic AI reasoning. Members are treated as available as requested. The design is an interpretation of VCDRC's publicly visible university style, not an exact licensed reproduction.
+## Identity and completeness
+The importer searches all 36 member names, accepts only a single exact-name OpenAlex author record with AUT affiliation, retrieves up to 500 works per resolved author, and deduplicates by DOI/OpenAlex ID. Other authors are marked unresolved rather than misattributed. This is not guaranteed to retrieve all publications, AUT-only outputs, or practice research. `coverage.json` reports the gaps. No methods are fabricated from titles; subjects use OpenAlex indexed topics. Manual ORCID resolution and additional Tuwhera/AUT profile sources are needed for full coverage.
 
-To enrich publications, populate `publications.json` with objects like:
-`{"title":"...", "authors":["Exact Member Name"],"year":2025,"url":"https://...", "abstract":"...", "subjects":["..."],"methods":["..."]}`
-Only use methods/subjects grounded in the output. The UI will incorporate these automatically.
+## Caution
+This tool is a transparent lexical recommender, not a semantic AI model. Project and publication matches should be reviewed before using them in funding decisions. The cropped header is sourced from a screenshot provided for design reference; replace with an original licensed site image for production.
