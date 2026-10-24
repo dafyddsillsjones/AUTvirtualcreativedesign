@@ -1,7 +1,3 @@
-VCDRC Keyword Matcher — official background image supplied by user.
+VCDRC Research Studio — updated matching dataset
 
-Upload index.html, data.json, publications.json, coverage.json, and VCD_website_background.jpg to the root of the GitHub Pages repository. No installation is required.
-
-Workflow: enter request → review/edit extracted concepts → find up to four members with linked centre-project evidence.
-
-IMPORTANT: the 36 members and 19 centre projects are indexed, but publication records have NOT been ingested. The coverage file documents missing publication evidence.
+Deploy all four files to the root of the existing GitHub Pages repository. The visual interface is retained. 36 researcher working profiles, six user-supplied capability clusters, eight proposed funding themes and 19 existing centre research records are included. The user-supplied expertise classifications are NOT independently verified AUT profile descriptions. Publications remain empty. Cluster keywords only contribute a low-weight group relevance signal and are not displayed as evidence of an individual's expertise.
