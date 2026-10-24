@@ -1,0 +1,254 @@
+{
+  "people": [
+    "Dafydd Sills-Jones",
+    "AD Narayan",
+    "Angelique Nairn",
+    "Ann Morrison",
+    "Catherine Shi",
+    "Cecelia Faumuina",
+    "Charles Walker",
+    "Clinton Watkins",
+    "Emily Ramsay",
+    "Gregory Bennett",
+    "Hazel Abraham",
+    "James Smith",
+    "Janie Van Woerden",
+    "Jason Kennedy",
+    "Jo Pascoe",
+    "Justin Matthews",
+    "Kien Tran",
+    "Layla Tweedle-Cullen",
+    "Lee Jackson",
+    "Lesley Ung",
+    "Loretta White",
+    "Luwen Xu",
+    "Marco Staines",
+    "Masaya Todoroki",
+    "Michaela Dodd",
+    "Miriam Harris",
+    "Nooroa Tapuni",
+    "Stefan Marks",
+    "Sue Gallagher",
+    "Tania Ka’ai",
+    "Tet Chuan Lee",
+    "Tim Haryiadi",
+    "Toi Williams",
+    "Wei Qi Yan",
+    "Zahra Salarnia",
+    "Zohreh K.M.Shirazi"
+  ],
+  "projects": [
+    {
+      "title": "Portals/Traces",
+      "url": "https://vcdrc.aut.ac.nz/our-research/portalstraces",
+      "people": [
+        "Dafydd Sills-Jones",
+        "Gregory Bennett",
+        "Stefan Marks",
+        "Marco Staines",
+        "Zohreh K.M.Shirazi"
+      ],
+      "tags": [
+        "XR",
+        "virtual production",
+        "AI",
+        "international collaboration"
+      ],
+      "verified": "Documented project/team"
+    },
+    {
+      "title": "Te Ara Matihiko",
+      "url": "https://vcdrc.aut.ac.nz/our-research/te-ara-matihiko-shaping-digital-futures-using-generative-reo-maori-ai-models-based-on-intergenerational-storytelling",
+      "people": [
+        "Hazel Abraham"
+      ],
+      "tags": [
+        "AI",
+        "te reo Māori",
+        "Indigenous storytelling",
+        "data sovereignty"
+      ],
+      "verified": "Documented project/team"
+    },
+    {
+      "title": "Extending Virtual Production 2025",
+      "url": "https://vcdrc.aut.ac.nz/our-research/extending-virtual-production-2025",
+      "people": [
+        "Cecelia Faumuina",
+        "Gregory Bennett",
+        "Nooroa Tapuni",
+        "Sue Gallagher",
+        "Kien Tran",
+        "Stefan Marks",
+        "Tania Ka’ai",
+        "Toi Williams",
+        "Tet Chuan Lee",
+        "Jason Kennedy",
+        "Justin Matthews"
+      ],
+      "tags": [
+        "virtual production",
+        "performance",
+        "motion capture",
+        "Māori storytelling"
+      ],
+      "verified": "Documented project/team"
+    },
+    {
+      "title": "The Life Cycle of an Idea",
+      "url": "https://vcdrc.aut.ac.nz/our-research/the-life-cycle-of-an-idea-creative-practice-in-transition%2C-exploring-design%2C-ai-and-the-reorganisation-of-creativity",
+      "people": [
+        "Layla Tweedle-Cullen",
+        "James Smith"
+      ],
+      "tags": [
+        "AI",
+        "design",
+        "creative agency"
+      ],
+      "verified": "Documented project/team"
+    },
+    {
+      "title": "Augmented Information System for Virtual Production Supervision using Smart Glasses",
+      "url": "https://vcdrc.aut.ac.nz/our-research/augmented-information-system-for-virtual-production-supervision-using-smart-glasses",
+      "people": [
+        "Kien Tran",
+        "Dafydd Sills-Jones",
+        "Catherine Shi"
+      ],
+      "tags": [
+        "AR",
+        "virtual production",
+        "interface"
+      ],
+      "verified": "Documented project/team"
+    },
+    {
+      "title": "Integrated Design Practice",
+      "url": "https://vcdrc.aut.ac.nz/our-research/integrated-design-practice-a-reflection-on-combining-animation%2C-visual-effects-and-game-design-for-first-year-undergraduate-students",
+      "people": [
+        "Emily Ramsay",
+        "Masaya Todoroki",
+        "Lesley Ung"
+      ],
+      "tags": [
+        "pedagogy",
+        "animation",
+        "game design"
+      ],
+      "verified": "Documented project/team"
+    },
+    {
+      "title": "Toward an interdisciplinary 3D animation design process for palaeoart",
+      "url": "https://vcdrc.aut.ac.nz/our-research/toward-an-interdisciplinary-3d-animation-design-process-for-palaeoart",
+      "people": [
+        "Jason Kennedy"
+      ],
+      "tags": [
+        "animation",
+        "palaeoart",
+        "visualisation"
+      ],
+      "verified": "Documented project/team"
+    },
+    {
+      "title": "Designing with Generative AI",
+      "url": "https://vcdrc.aut.ac.nz/our-research/designing-with-generative-ai-towards-technical%2C-ethical%2C-and-critical-pedagogies-in-interaction-design",
+      "people": [
+        "James Smith"
+      ],
+      "tags": [
+        "AI",
+        "design",
+        "pedagogy"
+      ],
+      "verified": "Documented project/team"
+    },
+    {
+      "title": "Purr-ogrammed love: A narrative review of virtual pets",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    },
+    {
+      "title": "Documentary in the Age of AI",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    },
+    {
+      "title": "Pedagogical strategies for teaching Virtual Production pipelines",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    },
+    {
+      "title": "The animator’s sensorium",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    },
+    {
+      "title": "Vactor ontologies",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    },
+    {
+      "title": "A Pedagogical Workflow for Interconnected Learning",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    },
+    {
+      "title": "Animation-directed embodied performance technique (ADEPT)",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    },
+    {
+      "title": "Epiphanic resolution",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    },
+    {
+      "title": "Muscular headband or sexual display?",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    },
+    {
+      "title": "Performing animation",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    },
+    {
+      "title": "Chryptochrome",
+      "url": "https://vcdrc.aut.ac.nz/our-research",
+      "people": [],
+      "tags": [],
+      "verified": "Listed on VCDRC; team not yet verified"
+    }
+  ],
+  "profileLinks": {
+    "Hazel Abraham": "https://academics.aut.ac.nz/hazel.abraham",
+    "Gregory Bennett": "https://academics.aut.ac.nz/greg.bennett"
+  },
+  "sources": [
+    "https://vcdrc.aut.ac.nz/our-research",
+    "https://vcdrc.aut.ac.nz/our-people",
+    "https://vcdrc.aut.ac.nz/partnerships"
+  ]
+}
